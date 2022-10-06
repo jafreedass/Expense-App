@@ -1,0 +1,28 @@
+#b{
+  
+    /* margin-right: 100px; */
+    margin-left: 100px;
+    padding-top: 50px;  
+    
+ }
+ 
+ 
+ 
+ 
+ #c{
+   /* border-radius: 15px; */
+   margin: auto;
+   background-color: rgb(159, 151, 188);
+   margin-right: 30px;
+   border: solid;
+   display: flex;
+   padding:20px;
+ }
+
+ #has{
+    width: fit-content;
+    font-size: 10px;
+    margin-top: 35px;
+    padding-top: 35px;
+    
+  }

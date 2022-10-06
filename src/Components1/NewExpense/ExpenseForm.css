@@ -1,0 +1,51 @@
+#For{ 
+    height: 30px;
+    width:200px;
+    margin-left: 400px;
+    border: 20px solid  rgb(38, 18, 55);
+    background-color: rgb(68, 62, 107);
+    padding-left: 200px;
+    padding-top: 200px;
+    text-align: center;
+    display: flex;
+    border-radius: 15px; 
+  
+    
+    
+  }
+
+  
+#here{
+    margin-top: -180px;
+    
+    margin-left: -150px;
+
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+    /* display: flex; */
+  }
+
+ 
+button{
+  margin-left: 10px;
+  justify-content: space-between;
+  background-color: rgb(191, 191, 191);
+  padding: 10px;
+  border:3px solid  rgb(0, 0, 0);
+
+}
+
+button:hover{
+  border:5px solid  black;
+  color:rgb(226, 225, 228);
+  background-color: black;
+}
+
+label{
+  margin-bottom: 20px;
+}
+
+
+input:hover{
+  background-color: silver;
+}

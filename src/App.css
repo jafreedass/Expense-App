@@ -1,0 +1,54 @@
+body{
+  /* background-color:rgb(105, 89, 119) ; */
+  background-image: linear-gradient( to right,rgb(159, 151, 188), rgb(68, 62, 107), rgb(38, 18, 55));
+
+}
+
+
+
+
+
+
+
+
+
+#sub{
+   font-size: 10px;
+   border: 2px solid cornsilk;
+   height: auto;
+   width: auto;
+   
+   
+    
+}
+
+
+#up{
+  color: cadetblue;
+}
+
+
+
+button{
+  border-radius: 15px;
+  /* width: fit-content; */
+  background-color: silver;
+  margin-left: -5px;
+}
+
+button:hover{
+  background-color: rgb(67, 67, 67);
+
+}
+
+
+
+label{
+  display: flex;
+}
+/* 
+input{
+  width: 300px;
+} */
+
+
