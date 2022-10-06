@@ -68,7 +68,7 @@ function addinfo(expe){
 
   return (
     <div>
-      <h2 style={{color:"white",textDecoration:"underline"}}>EXPENSES FORM VALIDATION</h2>
+      <h2 style={{color:"white",textDecoration:"underline"}}>EXPENSES App</h2>
 
       <div style={{color:"black"}}>
 
